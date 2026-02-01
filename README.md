@@ -37,7 +37,7 @@ This repository contains a single Jupyter notebook that implements zero-shot mul
 3. **Run the Notebook**
    - Execute all cells sequentially
    - First run will download:
-     - Mistral-Small-3.1-24B model (~15GB)
+     - Mistral-Small-3.1-24B model (~25GB)
      - CrisisMMD dataset (~2GB)
    - Total runtime: ~2-3 hours for full dataset
 
